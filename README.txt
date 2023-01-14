@@ -1,7 +1,7 @@
 ## MATLAB code for CoCAL: Collaborative Clustering based on Adaptive Laplace modeling
 
 
-## To perform CoCAL, please unzip nmfv1_4.rar and input-related parameters before running cocal.m. 
+## To perform CoCAL, please unzip nmfv1_4.rar and update input-related parameters before running cocal.m. 
    
 
 ## To set up the experiments from scratch, run the following scripts:
